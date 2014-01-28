@@ -17,4 +17,4 @@ into your processes and applications.
  
  * Media Analysis API: 
  * Semantic publishing API : 
- * Core Langauge API: 
+ * Core Language API: 
